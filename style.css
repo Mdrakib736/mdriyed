@@ -1,0 +1,114 @@
+a{
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+.full-wraper{
+width: 100%;
+clear: both;
+}
+.wraper{
+    width: 1100px;
+    margin: auto;
+}
+.logo img{
+    width: 70px;
+    padding: 10px 0;
+    float: left;
+    
+}
+.Home{
+    float: left;
+    width: 800px;
+    text-align: center;
+    margin-top: 15px;
+}  
+.Home a{
+color: black;
+padding: 10px;
+font-size: 24px;
+}  
+.reg{
+    width: 200px;
+    float: left;
+    margin-top: 15px;
+}
+.reg a{
+    color: #000;
+    padding: 10px;
+    font-size: 24px;
+}
+/*==========Home===========*/
+
+.banner-img{
+    background-image: url(../index.html/ing/7.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+padding: 200px 0;
+}
+.banner-text{
+    text-align: center;
+}
+.banner-text h1{
+color: red;
+font-size: 40px;
+}
+.banner-text p{
+    font-size: 25px;
+    color: #ff0;(255, 255, 255);
+}
+/*==========service=============*/
+
+.service-item{
+width: 350px;
+float: left;
+text-align: center;
+margin-top: 20px;
+padding: 20px 0;
+border: 1px solid #777;
+margin-left: 4px;
+}
+
+.service-item p{
+    display: inline-block;
+}
+
+
+ /*============about me=========*/
+
+.about h1{
+    color: #444;
+    padding: 50px 0;
+}
+.about-left{
+    float: left;
+    width: 50%;
+}
+.about-left img{
+width: 50%;
+}
+.about-right{
+    float:right;
+    width: 20%;
+   
+}
+about-right p{
+    width: 90%;
+    line-height: 26px;
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+/*============ Contact =========*/
+.about-left h2{
+      color: rgb(0, 255, 179);
+      margin-bottom: 20px;
+}
+.about-left p{
+    color: darkturquoise;
+    line-height: 30px;
+    font-size: 18px;
+}
