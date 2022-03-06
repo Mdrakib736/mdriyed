@@ -42,7 +42,7 @@ font-size: 24px;
 /*==========Home===========*/
 
 .banner-img{
-    background-image: url(../index.html/ing/7.jpg);
+    background-image: url(../index.html/ing/0.jpg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -52,7 +52,7 @@ padding: 200px 0;
     text-align: center;
 }
 .banner-text h1{
-color: red;
+color: rgba(133, 14, 133, 0.712);
 font-size: 40px;
 }
 .banner-text p{
